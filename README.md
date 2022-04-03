@@ -25,7 +25,7 @@
 
 BirthDay  |  1998.06.18
 
-Email |   <[dltmdwls154@gmail.com](mailto:dltmdwls154@gmail.com)>
+Email |   [dltmdwls154@gmail.com](mailto:dltmdwls154@gmail.com)
 
 GitHub  |  [seungjin-le (Seungjin Lee) · GitHub](https://github.com/seungjin-le)
 
