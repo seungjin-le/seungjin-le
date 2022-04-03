@@ -6,7 +6,7 @@
   
 - 꾸준함의 가치를 배워 `1일 1커밋` 운동을 시작했습니다.
   
-- 어려서부터 배운 사회성으로 항상 상대방을 배려하는 자세로 업무에 임합니다
+- 어려서부터 배운 사회성으로 항상 상대방을 배려하는 자세로 업무에 임합니다.
   
 
 ## Skill Set & Tools
@@ -23,7 +23,7 @@
 
 ## Contact
 
-BirthDay  |  1998.06.18
+BirthDay  |  1997.06.18
 
 Email |   [dltmdwls154@gmail.com](mailto:dltmdwls154@gmail.com)
 
