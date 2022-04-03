@@ -13,20 +13,23 @@
 
 #### Front-end
 
-`HTML5`  `CSS`  `Javascript(ES6)`  `React.js`  `Redux`  
+`HTML5` `CSS`  `Javascript(ES6)`  `React.js`  `Redux`
 
-`Styled-component`  `Sass`  `Next.js`  `REST API` `React-router`
+`Styled-component`  `Sass`  `Next.js` `REST API` `React-router`
+
+`axios` 
 
 #### Tools
 
-`Git`  `GitHub`  `Slack`  `Notion`  `WebStorm`  `VsCode` 
+`Git` `GitHub`  `Slack` `Notion`  `WebStorm`  `VsCode`
 
 ## :man: Contact
 
-BirthDay  |  1997.06.18
+BirthDay  | 1997.06.18
 
-Email |   [dltmdwls154@gmail.com](mailto:dltmdwls154@gmail.com)
+Email |  [dltmdwls154@gmail.com](mailto:dltmdwls154@gmail.com)
 
-GitHub  |  [seungjin-le (Seungjin Lee) · GitHub](https://github.com/seungjin-le)
+GitHub  | [seungjin-le (Seungjin Lee) · GitHub](https://github.com/seungjin-le)
 
-Blog  |  [https://velog.io/@dltmdwls15](https://velog.io/@dltmdwls15)
+Blog  | [https://velog.io/@dltmdwls15](https://velog.io/@dltmdwls15)
+
