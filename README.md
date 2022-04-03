@@ -1,4 +1,6 @@
-### Hi there 👋
+## 안녕하세요 어제보다 한 걸음 나아진 이승진입니다. 👋
+
+---
 
 <!--
 **seungjin-le/seungjin-le** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
