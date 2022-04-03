@@ -9,19 +9,19 @@
 - 어려서부터 배운 사회성으로 항상 상대방을 배려하는 자세로 업무에 임합니다
   
 
-##  Skill Set & Tools
+## Skill Set & Tools
 
-####  Front-end
+#### Front-end
 
 `HTML5`  `CSS`  `Javascript(ES^)`  `React.js`  `Redux`  
 
 `Styled-component`  `Sass`  `Next.js`  
 
-####  Tools
+#### Tools
 
 `Git`  `GitHub`  `Slack`  `Notion`  `WebStorm`  `VsCode` 
 
-##  Contact
+## Contact
 
 BirthDay  |  1998.06.18
 
