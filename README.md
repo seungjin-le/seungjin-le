@@ -15,7 +15,7 @@
 
 `HTML5`  `CSS`  `Javascript(ES6)`  `React.js`  `Redux`  
 
-`Styled-component`  `Sass`  `Next.js`  
+`Styled-component`  `Sass`  `Next.js`  `REST API` `React-router`
 
 #### Tools
 
