@@ -17,11 +17,11 @@
 
 `Styled-component`  `Sass`  `Next.js` `REST API` `React-router`
 
-`axios` 
+`axios` `TypeScript` `Git` `GitHub` `GitLab`
 
 #### Tools
 
-`Git` `GitHub`  `Slack` `Notion`  `WebStorm`  `VsCode`
+`Slack` `Notion`  `WebStorm`  `VsCode`
 
 ## :man: Contact
 
