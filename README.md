@@ -27,9 +27,10 @@
 
 BirthDay  | 1997.06.18
 
-Email |  [dltmdwls154@gmail.com](mailto:dltmdwls154@gmail.com)
+Email |  [이메일](mailto:dltmdwls154@gmail.com)
 
 GitHub  | [seungjin-le (Seungjin Lee) · GitHub](https://github.com/seungjin-le)
 
-Blog  | [https://velog.io/@dltmdwls15](https://velog.io/@dltmdwls15)
+Blog  | [벨로그_블로그](https://velog.io/@dltmdwls15)
 
+코딩테스트 연습장 | [깃허브_연습장](https://github.com/seungjin-le/JsCodingTest)
