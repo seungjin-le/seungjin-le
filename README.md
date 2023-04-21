@@ -18,12 +18,12 @@
 
 BirthDay  | 1997.06.18
 
-Email |  [이메일](mailto:dltmdwls154@gmail.com)
+Email |  [Email](mailto:dltmdwls154@gmail.com)
 
-GitHub  | [seungjin-le (Seungjin Lee) · GitHub](https://github.com/seungjin-le)
+GitHub  | [seungjin-le · GitHub](https://github.com/seungjin-le)
 
-Blog  | [벨로그_블로그](https://velog.io/@dltmdwls15)
+Blog  | [Velog_Blog](https://velog.io/@dltmdwls15)
 
-코딩테스트 연습장 | [깃허브_연습장](https://github.com/seungjin-le/JsCodingTest)
+Coding Test Note | [GitHub Note](https://github.com/seungjin-le/JsCodingTest)
 
 Notion | [Notion](https://nasal-liver-b6b.notion.site/09696828711d488a99c30476205d0794)
