@@ -22,7 +22,7 @@ Email |  [Email](mailto:dltmdwls154@gmail.com)
 
 GitHub  | [seungjin-le · GitHub](https://github.com/seungjin-le)
 
-Blog  | [Velog_Blog](https://velog.io/@dltmdwls15)
+Blog  | [GitPage](https://seungjin-le.github.io/)
 
 Coding Test Note | [GitHub Note](https://github.com/seungjin-le/JsCodingTest)
 
