@@ -31,15 +31,22 @@
 
 ## :man: Contact Information
 
-**BirthDay**: 1997.06.18
+**BirthDay** : ![BirthDay](https://img.shields.io/badge/BirthDay-1997.06.18-blue)
 
-**Email**: [Email](mailto:dltmdwls154@gmail.com)
+**Email** : ![Email](https://img.shields.io/badge/Email-dltmdwls154%40gmail.com-brightgreen)
 
-**GitHub**: [seungjin-le · GitHub](https://github.com/seungjin-le)
+**GitHub** : ![GitHub](https://img.shields.io/badge/GitHub-seungjin--le-lightgrey)  
 
-**Blog**: [GitPage](https://seungjin-le.github.io/)
+**Blog** : ![Blog](https://img.shields.io/badge/Blog-GitPage-orange)  
 
-**Coding Test Note**: [GitHub Note](https://github.com/seungjin-le/JsCodingTest)
+**CodingTest Note** : ![Coding Test Note](https://img.shields.io/badge/Coding_Test_Note-GitHub_Note-red)  
 
-**Notion**: [Notion](https://nasal-liver-b6b.notion.site/09696828711d488a99c30476205d0794)
+**Notion** : ![Notion](https://img.shields.io/badge/Notion-Notion_Page-blueviolet)
+
+  
+  
+
+
+
+
 
