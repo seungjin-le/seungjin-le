@@ -31,17 +31,12 @@
 
 ## :man: Contact Information
 
-**BirthDay** : ![BirthDay](https://img.shields.io/badge/BirthDay-1997.06.18-blue)
-
-**Email** : ![Email](https://img.shields.io/badge/Email-dltmdwls154%40gmail.com-brightgreen)
-
-**GitHub** : ![GitHub](https://img.shields.io/badge/GitHub-seungjin--le-lightgrey)  
-
-**Blog** : ![Blog](https://img.shields.io/badge/Blog-GitPage-orange)  
-
-**CodingTest Note** : ![Coding Test Note](https://img.shields.io/badge/Coding_Test_Note-GitHub_Note-red)  
-
-**Notion** : ![Notion](https://img.shields.io/badge/Notion-Notion_Page-blueviolet)
+[![BirthDay](https://img.shields.io/badge/BirthDay-1997.06.18-blue)](#)  
+[![Email](https://img.shields.io/badge/Email-dltmdwls154%40gmail.com-brightgreen)](mailto:dltmdwls154@gmail.com)  
+[![GitHub](https://img.shields.io/badge/GitHub-seungjin--le-lightgrey)](https://github.com/seungjin-le)  
+[![Blog](https://img.shields.io/badge/Blog-GitPage-orange)](https://seungjin-le.github.io/)  
+[![Coding Test Note](https://img.shields.io/badge/Coding_Test_Note-GitHub_Note-red)](https://github.com/seungjin-le/JsCodingTest)  
+[![Notion](https://img.shields.io/badge/Notion-Notion_Page-blueviolet)](https://nasal-liver-b6b.notion.site/09696828711d488a99c30476205d0794)
 
   
   
