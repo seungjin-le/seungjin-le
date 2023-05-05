@@ -1,5 +1,5 @@
-![header](https://capsule-render.vercel.app/api?type=transparent)
-# SeungJin Lee
+[![Header](https://capsule-render.vercel.app/api?type=transparent&color=auto&height=200&section=header&text=SeungJin%20Lee&fontSize=60&fontColor=ffffff)](https://github.com/seungjin-le)
+
 
 # 안녕하세요 신입 프론트앤드 개발자 이승진입니다. 👋
 
