@@ -1,16 +1,6 @@
 [![Header](https://capsule-render.vercel.app/api?type=Waving&color=auto&height=200&section=header&text=SeungJin%20Lee&fontSize=60&fontColor=ffffff)](https://github.com/seungjin-le)
 
 
-# 안녕하세요 신입 프론트앤드 개발자 이승진입니다. 👋
-
-
-
-
-
-Hi, I'm SeungJin Lee, a web developer skilled in JavaScript and related technologies.
-
-
-
 ## GitHub State
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=seungjin-le&show_icons=true&theme=dark)
