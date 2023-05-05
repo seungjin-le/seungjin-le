@@ -3,7 +3,11 @@
 
 ## GitHub State
 
-![seungjin-le's GitHub stats](https://github-readme-stats.vercel.app/api?username=seungjin-le&show_icons=true&theme=dark&hide=issues,contribs,prs&count_private=true&include_all_commits=true)
+[![seungjin-le's GitHub stats](https://github-readme-stats.vercel.app/api?username=seungjin-le&show_icons=true&theme=dark&include_all_commits=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats&)
+
+![seungjin-le's Repos](https://github-readme-stats.vercel.app/api/top-langs/?username=seungjin-le&langs_count=10&layout=compact&theme=dark)
+
+
 
 <!-- State 테마 수정 https://github.com/anuraghazra/github-readme-stats/blob/master/themes/README.md -->
 
