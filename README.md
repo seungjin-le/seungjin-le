@@ -1,7 +1,7 @@
 [![Header](https://capsule-render.vercel.app/api?type=Waving&color=575763&height=250&section=header&text=SeungJin%20Lee&fontSize=60&fontColor=ffffff)](https://github.com/seungjin-le)
 
 
-## GitHub State
+# GitHub State
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=seungjin-le&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="seungjin-le's GitHub stats" height="200" style="padding-right: 3rem"/>
@@ -11,9 +11,9 @@
 
 <!-- State 테마 수정 https://github.com/anuraghazra/github-readme-stats/blob/master/themes/README.md -->
 
-## :wrench: Skill Set & Tools
+# :wrench: Skill Set & Tools
 
-### Front-end
+## Front-end
 
 [![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5) [![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)  [![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)  
 
@@ -27,7 +27,7 @@
 
 
 
-### Tools
+## Tools
 
 [![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)](https://slack.com/)
 [![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)](https://www.notion.so/)
@@ -36,7 +36,7 @@
 [![GoLand](https://img.shields.io/badge/GoLand-34C27B?style=for-the-badge&logo=GoLand&logoColor=white)](https://www.jetbrains.com/go/)
 
 
-## :man: Contact Information
+# :man: Contact Information
 
 [![BirthDay](https://img.shields.io/badge/BirthDay-1997.06.18-blue?style=for-the-badge&logoWidth=20&border-radius=12)](#)
 
