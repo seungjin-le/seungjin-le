@@ -4,8 +4,8 @@
 ## GitHub State
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=seungjin-le&show_icons=true&theme=dark&hide=issues,contribs,prs&count_private=true&include_all_commits=true" alt="seungjin-le's GitHub stats" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=seungjin-le&langs_count=10&layout=compact&theme=dark" alt="seungjin-le's Repos" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api?username=seungjin-le&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="seungjin-le's GitHub stats" height="200" style="padding-right: 60px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=seungjin-le&langs_count=10&layout=compact&theme=dark" alt="seungjin-le's Repos" height="200" />
 </p>
 
 
