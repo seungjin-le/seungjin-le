@@ -8,7 +8,7 @@
 
 [![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)](https://reactjs.org/)  [![Redux](https://img.shields.io/badge/Redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)](https://redux.js.org/) [![React-router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)](https://reactrouter.com/)
 
-[! [Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)](https://nextjs.org/) [![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
+[![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)](https://nextjs.org/) [![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
 
 [![Styled-components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)](https://styled-components.com/)  [![Sass](https://img.shields.io/badge/Sass-%23CC6699.svg?style=for-the-badge&logo=sass&logoColor=white)](https://sass-lang.com/) [![REST API](https://img.shields.io/badge/REST-02569B?style=for-the-badge&logo=rest&logoColor=white)](https://restfulapi.net/) 
 
@@ -29,17 +29,17 @@
 
 <!-- State 테마 수정 https://github.com/anuraghazra/github-readme-stats/blob/master/themes/README.md -->
 
+## :man: Contact Information
 
-## :man: Contact
+**BirthDay**: 1997.06.18
 
-BirthDay  | 1997.06.18
+**Email**: [Email](mailto:dltmdwls154@gmail.com)
 
-Email |  [Email](mailto:dltmdwls154@gmail.com)
+**GitHub**: [seungjin-le · GitHub](https://github.com/seungjin-le)
 
-GitHub  | [seungjin-le · GitHub](https://github.com/seungjin-le)
+**Blog**: [GitPage](https://seungjin-le.github.io/)
 
-Blog  | [GitPage](https://seungjin-le.github.io/)
+**Coding Test Note**: [GitHub Note](https://github.com/seungjin-le/JsCodingTest)
 
-Coding Test Note | [GitHub Note](https://github.com/seungjin-le/JsCodingTest)
+**Notion**: [Notion](https://nasal-liver-b6b.notion.site/09696828711d488a99c30476205d0794)
 
-Notion | [Notion](https://nasal-liver-b6b.notion.site/09696828711d488a99c30476205d0794)
