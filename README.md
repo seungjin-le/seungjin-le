@@ -1,6 +1,8 @@
 # 안녕하세요 신입 프론트앤드 개발자 이승진입니다. 👋
 
-![Header Image](https://user-images.githubusercontent.com/4502866/135776798-ebd4ea8b-bba0-4f54-9d83-d976f8f1e907.png)
+![Header](https://user-images.githubusercontent.com/4502866/135776798-ebd4ea8b-bba0-4f54-9d83-d976f8f1e907.png)
+
+ ![header](https://capsule-render.vercel.app/api?type=Transparent&color=auto&height=300&section=header&text=capsule%20render&fontSize=90)
 
 # SeungJin Lee
 
