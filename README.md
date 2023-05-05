@@ -1,8 +1,11 @@
+![header](https://capsule-render.vercel.app/api?type=transparent)
+# SeungJin Lee
+
 # 안녕하세요 신입 프론트앤드 개발자 이승진입니다. 👋
 
-![header](https://capsule-render.vercel.app/api?type=transparent)
 
-# SeungJin Lee
+
+
 
 Hi, I'm SeungJin Lee, a web developer skilled in JavaScript and related technologies.
 
