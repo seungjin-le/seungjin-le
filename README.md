@@ -23,7 +23,9 @@
 [![GoLand](https://img.shields.io/badge/GoLand-34C27B?style=for-the-badge&logo=GoLand&logoColor=white)](https://www.jetbrains.com/go/)
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=seungjin-le&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=seungjin-le&show_icons=true&theme=dark)
+
+<!-- State 테마 수정 https://github.com/anuraghazra/github-readme-stats/blob/master/themes/README.md -->
 
 
 ## :man: Contact
