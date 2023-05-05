@@ -4,7 +4,8 @@
 
 #### Front-end
 
-`HTML5` `CSS`  `Javascript(ES6)`  `React.js`  `Redux`
+`HTML5` `CSS`  `[![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+`  `React.js`  `Redux`
 
 `Styled-component`  `Sass`  `Next.js` `REST API` `React-router`
 
