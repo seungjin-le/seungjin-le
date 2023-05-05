@@ -1,5 +1,13 @@
 # 안녕하세요 신입 프론트앤드 개발자 이승진입니다. 👋
 
+![Header Image](https://user-images.githubusercontent.com/4502866/135776798-ebd4ea8b-bba0-4f54-9d83-d976f8f1e907.png)
+
+# SeungJin Lee
+
+Hi, I'm SeungJin Lee, a web developer skilled in JavaScript and related technologies.
+
+
+
 ## GitHub State
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=seungjin-le&show_icons=true&theme=dark)
