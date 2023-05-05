@@ -3,7 +3,7 @@
 
 ## GitHub State
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=seungjin-le&show_icons=true&theme=dark&include_all_commits=true)
+![seungjin-le's GitHub stats](https://github-readme-stats.vercel.app/api?username=seungjin-le&show_icons=true&theme=dark&hide=issues,contribs,prs)
 <!-- State 테마 수정 https://github.com/anuraghazra/github-readme-stats/blob/master/themes/README.md -->
 
 ## :wrench: Skill Set & Tools
