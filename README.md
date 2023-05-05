@@ -1,4 +1,4 @@
-[![Header](https://capsule-render.vercel.app/api?type=Waving&color=auto&height=200&section=header&text=SeungJin%20Lee&fontSize=60&fontColor=ffffff)](https://github.com/seungjin-le)
+[![Header](https://capsule-render.vercel.app/api?type=Waving&color=333333&height=200&section=header&text=SeungJin%20Lee&fontSize=60&fontColor=ffffff)](https://github.com/seungjin-le)
 
 
 ## GitHub State
