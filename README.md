@@ -1,4 +1,9 @@
-# 안되면 될 때까지 도전하는 신입 프론트앤드 개발자 이승진입니다. 👋
+# 안녕하세요 신입 프론트앤드 개발자 이승진입니다. 👋
+
+## GitHub State
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=seungjin-le&show_icons=true&theme=dark)
+<!-- State 테마 수정 https://github.com/anuraghazra/github-readme-stats/blob/master/themes/README.md -->
 
 ## :wrench: Skill Set & Tools
 
@@ -24,10 +29,6 @@
 [![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
 [![GoLand](https://img.shields.io/badge/GoLand-34C27B?style=for-the-badge&logo=GoLand&logoColor=white)](https://www.jetbrains.com/go/)
 
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=seungjin-le&show_icons=true&theme=dark)
-
-<!-- State 테마 수정 https://github.com/anuraghazra/github-readme-stats/blob/master/themes/README.md -->
 
 ## :man: Contact Information
 
