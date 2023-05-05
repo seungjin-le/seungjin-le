@@ -35,7 +35,7 @@
 [![Email](https://img.shields.io/badge/Email-dltmdwls154%40gmail.com-brightgreen?style=for-the-badge&logoWidth=20&border-radius=12)](mailto:dltmdwls154@gmail.com)  
 [![GitHub](https://img.shields.io/badge/GitHub-seungjin--le-lightgrey?style=for-the-badge&logoWidth=20&border-radius=12)](https://github.com/seungjin-le) 
 [![Blog](https://img.shields.io/badge/Blog-GitPage-orange?style=for-the-badge&logoWidth=20&border-radius=12)](https://seungjin-le.github.io/)  
-[![Coding Test Note](https://img.shields.io/badge/Coding_Test_Note-GitHub_Note-red?style=for-the-badge&logoWidth=20&border-radius=12)](https://github.com/seungjin-le/JsCodingTest)  
+[![Coding Test Note](https://img.shields.io/badge/Coding_Test_Note-GitHub_Note-red?style=for-the-badge&logoWidth=20&border-radius=12)](https://seungjin-le.github.io/categories/codingtest/)  
 [![Notion](https://img.shields.io/badge/Notion-Notion_Page-blueviolet?style=for-the-badge&logoWidth=20&border-radius=12)](https://nasal-liver-b6b.notion.site/09696828711d488a99c30476205d0794)
 
 
