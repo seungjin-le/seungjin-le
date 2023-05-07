@@ -11,7 +11,7 @@
 
 <!-- State 테마 수정 https://github.com/anuraghazra/github-readme-stats/blob/master/themes/README.md -->
 
-# :wrench: Skill Set & Tools
+# :wrench: SkillS & Tools
 
 ## Front-end
 
