@@ -1,16 +1,5 @@
 [![Header](https://capsule-render.vercel.app/api?type=Waving&color=575763&height=250&section=header&text=SeungJin%20Lee&fontSize=60&fontColor=ffffff)](https://github.com/seungjin-le)
 
-
-# GitHub State
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=seungjin-le&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="seungjin-le's GitHub stats" height="200" style="padding-right: 3rem"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=seungjin-le&langs_count=10&layout=compact&theme=dark" alt="seungjin-le's Repos" height="200" />
-</p>
-
-
-<!-- State 테마 수정 https://github.com/anuraghazra/github-readme-stats/blob/master/themes/README.md -->
-
 # :wrench: SkillS & Tools
 
 ## Front-end
