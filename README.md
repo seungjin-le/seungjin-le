@@ -1,7 +1,7 @@
 [![Header](https://capsule-render.vercel.app/api?type=Waving&color=575763&height=250&section=header&text=SeungJin%20Lee&fontSize=60&fontColor=ffffff)](https://github.com/seungjin-le)
 
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Ashutosh00710&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=seungjin-le&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
 
