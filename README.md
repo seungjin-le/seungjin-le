@@ -2,7 +2,7 @@
 
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=seungjin-le&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
+[![GitHub Streak](https://streak-stats.demolab.com?user=seungjin-le&theme=blue-navy&hide_border=true&border_radius=&locale=ko&date_format=%5BY.%5Dn.j&mode=weekly&card_width=504)](https://git.io/streak-stats)
 
 
 # :wrench: SkillS & Tools
