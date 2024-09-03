@@ -12,8 +12,8 @@
 [![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5) [![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)  [![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)  
 
 [![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)](https://reactjs.org/)  [![Redux](https://img.shields.io/badge/Redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)](https://redux.js.org/) [![React-router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)](https://reactrouter.com/)
-![Vue](https://img.shields.io/badge/vue-%230a0a0a.svg?style=for-the-badge&logo=vue&logoColor=white)
-![Nuxt](https://img.shields.io/badge/vue-%230a0a0a.svg?style=for-the-badge&logo=nuxt&logoColor=white)
+![Vue](https://img.shields.io/badge/vue3-%230a0a0a.svg?style=for-the-badge&logo=vue3&logoColor=white)
+![Nuxt](https://img.shields.io/badge/nuxt-%230a0a0a.svg?style=for-the-badge&logo=nuxt&logoColor=white)
 ![Tailwindcss](https://img.shields.io/badge/tailwindcss-%230a0a0a.svg?style=for-the-badge&logo=tailwindcss&logoColor=white)
 [![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)](https://nextjs.org/) [![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
 
